@@ -27,7 +27,7 @@ cd computer-quiz-game
 Run the game:
 
 ```bash
-python quiz_game.py
+python quiz.py
 ```
 
 ---
@@ -57,7 +57,7 @@ You got 100.0%
 ```
 📁 computer-quiz-game
 │
-├── quiz_game.py      # Main Python file
+├── quiz.py      # Main Python file
 └── README.md         # Documentation
 ```
 
